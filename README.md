@@ -1,41 +1,50 @@
-<h1 align="center">Hi 👋, I'm Honaida</h1>
-<h3 align="center">💻 Java / Spring Boot / Angular Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=hi+👋;java+spring+developer;building+cool+things&center=true&width=300&height=40&color=F7A8B8">
+</p>
 
 <p align="center">
-  🌱 I’m currently learning Backend & Full Stack Development <br>
-  🚀 Passionate about building web applications <br>
+  🌷 java & spring developer <br>
+  💻 turning ideas into web apps <br>
+  💗 learning & growing everyday
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html-ffb6c1?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-ffc0cb?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-ff69b4?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-ffb6c1?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular-ff69b4?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-ffc0cb?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind-ffb6c1?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-ffc0cb?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-ffb6c1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-ffc0cb?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel-ff69b4?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-ffb6c1?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-ff69b4?style=flat&logo=spring&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  💌 a few things i've built
+</p>
+
+<p align="center">
+  🌸 <a href="https://github.com/Hounaida202/company-obligation-tracker.git">Company Obligation Tracker</a> <br>
+  🌸 <a href="https://github.com/Hounaida202/B2B-Commercial-System">B2B Commercial System</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hounaida202&show_icons=true&theme=rose_pine&hide_border=true"/>
 </p>
 
----
-
-## 🌐 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/TON_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
----
-
-## ✨ Fun
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Lover;Angular+Fan&center=true&width=500&height=50"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hounaida202&theme=rose_pine&hide_border=true"/>
 </p>
